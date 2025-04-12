@@ -20,6 +20,11 @@ The AI evaluates all possible game states and chooses the optimal move, ensuring
 - HTML / CSS / JavaScript *(or replace with React, Vue, etc. if you're using one)*
 - Minimax algorithm for AI logic
 
+![minimax Snapshot](assets/images/snapshot.png)
 
 ## 📄 License
 MIT License © 2025 Yahia Badr
+
+## 🌐 Demo
+[vist live site](https://minimax-xo.web.app/)
+
