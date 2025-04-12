@@ -23,7 +23,7 @@ The AI evaluates all possible game states and chooses the optimal move, ensuring
 ![minimax Snapshot](assets/images/snapshot.png)
 
 ## 📄 License
-MIT License © 2025 Yahia Badr
+MIT License © 2024 Yahia Badr
 
 ## 🌐 Demo
 [vist live site](https://minimax-xo.web.app/)
